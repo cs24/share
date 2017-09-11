@@ -15,6 +15,7 @@
 - [你不知道的JavaScript（上卷）](https://github.com/77ircloud/share/blob/master/books/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%EF%BC%88%E4%B8%8A%E5%8D%B7%EF%BC%89.pdf)
 - [你不知道的JavaScript （You Dont Know JS）英文版](https://github.com/getify/You-Dont-Know-JS)
 - [前端架构设计](https://github.com/77ircloud/share/blob/master/books/%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.pdf)
+- [CSS揭秘（CSS Secrets）英文版](https://github.com/77ircloud/share/blob/master/books/CSS-Secrets.pdf)
 
 
 ### Java
