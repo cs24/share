@@ -3,7 +3,7 @@
 
 ### 前端
 - [JavaScript权威指南（原书第6版）中文版](https://github.com/77ircloud/share/blob/master/books/JavaScript%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88%EF%BC%89.pdf)
-- [JavaScript权威指南（原书第6版）英文版](https://github.com/77ircloud/share/blob/master/books/JavaScript.The.Definitive.Guide.pdf)
+- [JavaScript The Definitive Guide (JavaScript权威指南 原书第6版 英文版)](https://github.com/77ircloud/share/blob/master/books/JavaScript.The.Definitive.Guide.pdf)
 - [JavaScript高级程序设计(图灵正版)](https://github.com/77ircloud/share/blob/master/books/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1(%E5%9B%BE%E7%81%B5%E6%AD%A3%E7%89%88).pdf)
 - [JS 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 - [JS 函数式编程](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
@@ -13,7 +13,7 @@
 - [JavaScript设计模式与开发实践](https://github.com/77ircloud/share/blob/master/books/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5.pdf)
 - [Web性能权威指南](https://github.com/77ircloud/share/blob/master/books/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%20.pdf)
 - [你不知道的JavaScript（上卷）](https://github.com/77ircloud/share/blob/master/books/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%EF%BC%88%E4%B8%8A%E5%8D%B7%EF%BC%89.pdf)
-- [你不知道的JavaScript （You Dont Know JS）英文版](https://github.com/getify/You-Dont-Know-JS)
+- [You Dont Know JS (你不知道的JavaScript 英文版)](https://github.com/getify/You-Dont-Know-JS)
 - [前端架构设计](https://github.com/77ircloud/share/blob/master/books/%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.pdf)
 - [CSS揭秘（CSS Secrets）英文版](https://github.com/77ircloud/share/blob/master/books/CSS-Secrets.pdf)
 
@@ -47,13 +47,14 @@
 
 ### 数据结构与算法
 - [算法 第4版 中文版](https://github.com/77ircloud/share/blob/master/books/Algorithms%20(4th%20Edition)%20(%E4%B8%AD%E6%96%87%E7%89%88)%20(Robert%20Sedgewick%20and%20Kevin%20Wayne).pdf)
-- [算法 第4版 英文版](https://github.com/77ircloud/share/blob/master/books/Algorithms%20(4th%20Edition)%20(Robert%20Sedgewick%20and%20Kevin%20Wayne).pdf)
+- [Algorithms（算法 第4版 英文版）](https://github.com/77ircloud/share/blob/master/books/Algorithms%20(4th%20Edition)%20(Robert%20Sedgewick%20and%20Kevin%20Wayne).pdf)
 - [数据结构与算法/leetcode/lintcode题解](https://algorithm.yuanbin.me/zh-hans/)
 - [编程之法：面试和算法心得](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/)
 
 
 ### 思维
-- [黑客与画家 英文版](https://github.com/77ircloud/share/blob/master/books/Hackers.and.Painters.pdf)
+- [Hackers and Painters(黑客与画家)](https://github.com/77ircloud/share/blob/master/books/Hackers.and.Painters.pdf)
+- [Beyond Feelings (A Guide To Critical Thinking Textbook)](https://github.com/77ircloud/share/blob/master/books/Beyond%20Feelings.pdf)
 - [超智能体](https://yjango.gitbooks.io/superorganism/content/chapter1.html)
 - [浪潮之巅](https://github.com/77ircloud/share/blob/master/books/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85.pdf)
 - [淘宝技术这十年](https://github.com/77ircloud/share/blob/master/books/%E6%B7%98%E5%AE%9D%E6%8A%80%E6%9C%AF%E8%BF%99%E5%8D%81%E5%B9%B4.pdf)
