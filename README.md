@@ -60,7 +60,7 @@
 - [淘宝技术这十年](https://github.com/77ircloud/share/blob/master/books/%E6%B7%98%E5%AE%9D%E6%8A%80%E6%9C%AF%E8%BF%99%E5%8D%81%E5%B9%B4.pdf)
 - [金字塔原理——思考、写作与制作图表的逻辑](https://github.com/77ircloud/share/blob/master/books/%E9%87%91%E5%AD%97%E5%A1%94%E5%8E%9F%E7%90%86%E2%80%94%E2%80%94%E6%80%9D%E8%80%83%E3%80%81%E5%86%99%E4%BD%9C%E4%B8%8E%E5%88%B6%E4%BD%9C%E5%9B%BE%E8%A1%A8%E7%9A%84%E9%80%BB%E8%BE%91.pdf)
 - [程序设计思想与方法](https://wizardforcel.gitbooks.io/sjtu-cs902-courseware/content/)
-
+- [Art of Community Second Edition（社区运营的艺术 第二版 英文版）](https://github.com/77ircloud/share/blob/master/books/Art_of_Community_Second_Edition.pdf)
 
 ### 机器学习
 - [[机器学习]Tom.Mitchell](https://github.com/77ircloud/share/blob/master/books/%5B%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%5DTom.Mitchell.pdf)
