@@ -1,5 +1,5 @@
 ## 电子书
-> 只要非扫描版或在线电子书
+> 只搜集非扫描版或在线电子书，仅供学习和交流。如果感觉书不错，建议购买纸质书或去 [多看阅读](http://www.duokan.com/) 等平台购买正版电子书。
 
 ### 前端
 - [JavaScript权威指南（原书第6版）中文版](https://github.com/77ircloud/share/blob/master/books/JavaScript%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88%EF%BC%89.pdf)
