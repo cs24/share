@@ -44,6 +44,7 @@
 - [HTTP权威指南](https://github.com/77ircloud/share/blob/master/books/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
 - [计算机网络——自顶向下方法 英文版](https://github.com/77ircloud/share/blob/master/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95%EF%BC%88%E7%AC%AC6%E7%89%88%E8%8B%B1%E6%96%87%E7%89%88%EF%BC%89.pdf)
 - [TCPIP详解 卷1协议](https://github.com/77ircloud/share/blob/master/books/TCPIP%E8%AF%A6%E8%A7%A3%20%E5%8D%B71%E5%8D%8F%E8%AE%AE.pdf)
+- [SSH: The Secure Shell - The Definitive Guide](http://openyoudao.org/_media/ssh_second_edition.pdf)
 
 ### 数据结构与算法
 - [算法 第4版 中文版](https://github.com/77ircloud/share/blob/master/books/Algorithms%20(4th%20Edition)%20(%E4%B8%AD%E6%96%87%E7%89%88)%20(Robert%20Sedgewick%20and%20Kevin%20Wayne).pdf)
