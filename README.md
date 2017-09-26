@@ -75,6 +75,7 @@
 ### Git
 - [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 - [Git权威指南](http://www.worldhello.net/gotgit/)
+- [GotGitHub](http://www.worldhello.net/gotgithub/)
 
 
 ### Linux
